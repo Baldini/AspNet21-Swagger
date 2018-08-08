@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet21-Swagger", "AspNet21-Swagger\AspNet21-Swagger.csproj", "{A7EAFF16-0137-4128-9871-1292F2070D84}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{4121D439-7281-40DD-9D69-2E338FB60E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7EAFF16-0137-4128-9871-1292F2070D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EAFF16-0137-4128-9871-1292F2070D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EAFF16-0137-4128-9871-1292F2070D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EAFF16-0137-4128-9871-1292F2070D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4121D439-7281-40DD-9D69-2E338FB60E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4121D439-7281-40DD-9D69-2E338FB60E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4121D439-7281-40DD-9D69-2E338FB60E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4121D439-7281-40DD-9D69-2E338FB60E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60E53614-D9B4-43AF-BFD3-84814C4C019C}
+	EndGlobalSection
+EndGlobal

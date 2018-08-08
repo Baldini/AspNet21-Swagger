@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  aspnet21-swagger:
+    image: ${DOCKER_REGISTRY}aspnet21swagger
+    build:
+      context: .
+      dockerfile: AspNet21-Swagger/Dockerfile
